@@ -101,7 +101,7 @@ This action is equivalent to running git init on the command-line.
 git add .
 git commit -m "pass a message of what changes you made"
 git remote add origin <github repo url>
-git push -u main or git push -u master depending on the name of your branch
+git push -u origin main or git push -u origin master depending on the name of your branch
 
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
